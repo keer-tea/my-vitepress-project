@@ -5,6 +5,7 @@ export default defineConfig({
   title: '--VitePress--',
   description: 'Just playing around.',
   srcDir: 'src',
+  base: '/vitepress-course/',
   head: [
     [
       // 配置浏览器标签页小图标
